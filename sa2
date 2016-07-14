@@ -20,7 +20,7 @@
 #
 # Modified 20160714 by Jon Pruente
 # Changes: Changed the script to no longer rely on the date to process
-# sysinfo output files. It will now generate a new sarXX if a matching
+# sysstat output files. It will now generate a new sarXX if a matching
 # binary saXX file is newer or if the sarXX does not exist for a saXX
 # file.
 # 
