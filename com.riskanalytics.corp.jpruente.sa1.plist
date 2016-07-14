@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Label</key>
+		<string>com.riskanalytics.corp.jpruente.sa1</string>
+	<key>ProgramArguments</key>
+	<array>
+		<string>/usr/local/lib/sa/sa1</string>
+		<string>1</string>
+		<string>1</string>
+	</array>
+	<key>StartCalendarInterval</key>
+	<array>
+	<dict>
+		<key>Weekday</key>
+		<integer>1</integer>
+	</dict>
+	<dict>
+		<key>Weekday</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>Weekday</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>Weekday</key>
+		<integer>4</integer>
+	</dict>
+	<dict>
+		<key>Weekday</key>
+		<integer>5</integer>
+	</dict>
+	</array>
+	<key>StartInterval</key>
+	<integer>60</integer>
+	<key>RunAtLoad</key>
+	<true/>
+</dict>
+</plist>
+
